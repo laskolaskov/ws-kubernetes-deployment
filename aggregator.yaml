@@ -25,6 +25,6 @@ spec:
     spec:
       containers:
         - name: aggregator
-          image: laskolaskov/ws-aggregator:0.0.2
+          image: laskolaskov/ws-aggregator:0.0.4
           ports:
             - containerPort: 3000

@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
         - name: web-client
-          image: laskolaskov/ws-web-client:0.0.1
+          image: laskolaskov/ws-web-client:0.0.3
           ports:
             - containerPort: 5000
